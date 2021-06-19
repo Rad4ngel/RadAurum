@@ -2,19 +2,19 @@ Hi i'm RadAngelZero.
 A self taught multimedia designer who loves to make amazing stuff
 
 Languajes:
--JS
--C#
+- JS
+- C#
 
 Frameworks:
--React
--React Native
+- React
+- React Native
 
 Software i use:
--VS Code
--Blender
--Unity
--Adobe
--DaVinci Resolve
+- VS Code
+- Blender
+- Unity
+- Adobe
+- DaVinci Resolve
 
 Currently working for QaplaGaming
 
