@@ -4,10 +4,13 @@ A self taught multimedia designer who loves to make amazing stuff
 Languajes:
 - JS
 - C#
+- Python
+- Java
 
-Frameworks:
+Frameworks/Libs:
 - React
 - React Native
+- Matter.js
 
 Software i use:
 - VS Code
