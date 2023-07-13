@@ -16,7 +16,6 @@ Software i use:
 - VS Code
 - Blender
 - Unity
-- Adobe
 - DaVinci Resolve
 
 <!---
