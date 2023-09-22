@@ -1,7 +1,7 @@
 Hi i'm RadAngelZero.
 A self taught multimedia designer who loves to make amazing stuff
 
-![](https://komarev.com/ghpvc/?username=radaurum&color=ffbf00)
+![](https://komarev.com/ghpvc/?username=radaurum&color=a67c00)
 
 Languajes:
 - JS
