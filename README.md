@@ -1,7 +1,5 @@
-Hi i'm RadAngelZero.
+Hi i'm Rad4ngel.
 A self taught multimedia designer who loves to make amazing stuff
-
-![](https://komarev.com/ghpvc/?username=radaurum&color=a67c00)
 
 Languajes:
 - JS
